@@ -17,7 +17,7 @@ STM32 F205ZGT6
 ●	React WebSite build and design
 Other project maintain.
 
-Software engineer - 2014 November – 2016 November
+	Software engineer - 2014 November – 2016 November
 
 This project make smart phone 
 And Design custom touch function.
@@ -41,7 +41,7 @@ Other Work
 	Support other department member Solve the analysis bug
 Cowork own member build tool and design code.
 
-Software engineer - 2013 January – 2014 November
+	Software engineer - 2013 January – 2014 November
 Barcode prints product
 Main function other Vendor Machine can run in own Machine,don’t change any command.
 
@@ -54,13 +54,14 @@ For Arm7 chip Work with hardware to create imitation Zebra signal fixtures
 ●	Wifi support test for USB dongle.
 Code optimization for Arm7 method.
 
-Software engineer - 2013 January – 2013 December
+	Software engineer - 2013 January – 2013 December
 	Karaoke machine ( this video and music ,On-demand machine)
 	Maintain old machine , and cowork Hw 
 
 ●	Opensource CD-Rom porting in machine ,
 ●	Android App like remote control and load Karaoke music list
 ●	Fix bug
+
 Education
 	2012/7-2012
 	Institute for Information Industry Embedded Linux System course
