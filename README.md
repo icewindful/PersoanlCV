@@ -71,7 +71,7 @@ Maintain old machine , and cowork Hw </br>
 ● Android App like remote control and load Karaoke music list </br>
 ● Fix bug </br>
 </b>
-
+</br>
 Education </br>
 	2012/7-2012 </br>
 	Institute for Information Industry Embedded Linux System course </br>
