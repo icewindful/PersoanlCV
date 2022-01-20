@@ -8,7 +8,7 @@ Software modification
 System maintenance
 Customized demand
 
-STM32 F205ZGT6 
+STM32 F205ZGT6 </br>
 ● environment construction
 ●	Bootloader build
 ●	STM32 function is used, experimental sensor is used
